@@ -207,5 +207,8 @@ footer p{
     }
     .formulario{
         margin: 5px;
-    } 
+    }
+    .nav-link::after {    
+        width: 50%;
+    }
 }
